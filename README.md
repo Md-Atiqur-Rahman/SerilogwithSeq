@@ -1,4 +1,4 @@
-# SerilogwithSeq
+# Serilog with Seq Dashboard
 To see log into Seq Dashboard as like 
 
 ![seq](https://github.com/Md-Atiqur-Rahman/SerilogwithSeq/assets/37808900/5a0b4742-b294-4af9-bac9-52ccd3f80355)
