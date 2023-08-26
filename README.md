@@ -12,6 +12,7 @@ To see log into Seq Dashboard as like
   4. Install-Package  Serilog.Enrichers.Thread
   5. Install-Package  Serilog.Enrichers.Process
   6. Install-Package Serilog.Formatting.Compact
+  7. Install-Package Serilog.Sinks.Seq
 - Need configuration in your appsettings like
   ![appsettings](https://github.com/Md-Atiqur-Rahman/SerilogwithSeq/assets/37808900/f75834fe-136e-4b99-8648-a08447e29359)
 
